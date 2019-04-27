@@ -14,6 +14,15 @@ Options:
 
 ## Example usage
 
+ Fill in details with your values details below are examples
+
+ https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html
+
+ consumer_key = MI6oOYtyfsdgUWCDChkxCzlBe
+ consumer_secret = Eu0rHZOpjUasdgadsJbBn51W1EH01IpZLH0WnWXgFfCsOjBuF2Dd1
+ access_token = 874591962086731776-bNusasdgasdg7JqRH8xPww815Xfz1nxemti
+ access_token_secret = 449g6XSu22F98Ah32523fagasMKArAimVuFS3h37BuiC2e1fIV
+
 ```
 $ twitty-bot -q '#javascript' --min 1000 --max 60000 --duration 2 --actions follow,like
 
