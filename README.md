@@ -16,7 +16,7 @@ Options:
 
 ## Example usage
 
- Fill in details with your values details below are examples
+ Fill in .env with your tokens below is an example
 
 ```
  https://developer.twitter.com/en/docs/basics/authentication/guides/access-tokens.html
