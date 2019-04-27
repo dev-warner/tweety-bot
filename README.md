@@ -1,9 +1,8 @@
 # Tweety bot
 
+```
 Usage: tweety-bot [options]
 
-
-```
 Options:
   -V, --version        output the version number
   -q, --query <value>  Add query example: -q #javascript (default: "#javascript")
