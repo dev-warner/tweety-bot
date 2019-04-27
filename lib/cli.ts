@@ -6,7 +6,7 @@ const split = (str: string) => {
 
 export const cli = () => {
     commander
-        .name('tweety-bot')
+        .name('twit-bot')
         .version('0.0.1')
         .option('-q, --query <value>', `Add query example: -q #javascript`, '#javascript')
         .option('-s --min [n]', `Add min amount of time to wait before each action example: -s 2500`, 2500)

@@ -1,7 +1,7 @@
-# Tweety bot
+# Twit bot
 
 ```
-Usage: tweety-bot [options]
+Usage: twit-bot [options]
 
 Options:
   -V, --version        output the version number
@@ -27,7 +27,7 @@ Options:
 ```
 
 ```
-$ twitty-bot -q '#javascript' --min 1000 --max 60000 --duration 2 --actions follow,like
+$ twit-bot -q '#javascript' --min 1000 --max 60000 --duration 2 --actions follow,like
 
 /*
  will start a bot that will run for 2 hours firing an action

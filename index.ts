@@ -9,7 +9,7 @@ import { Cron, Options } from './lib/cron-job';
 
 require('dotenv').config();
 
-console.log('starting tweety bot 🐦');
+console.log('starting Twit bot 🐦');
 
 (async function botMcBotFace() {
     const { max, min, duration, actions, query }: CommanderStatic = cli();
@@ -31,7 +31,7 @@ console.log('starting tweety bot 🐦');
     }
 
     catch (error) {
-        console.log('tweety bot died in the pits 🐦', error)
+        console.log('Twit bot died in the pits 🐦', error)
 
         cron && cron.stop();
     }
