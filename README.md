@@ -2,6 +2,8 @@
 
 Usage: tweety-bot [options]
 
+
+```
 Options:
   -V, --version        output the version number
   -q, --query <value>  Add query example: -q #javascript (default: "#javascript")
@@ -10,7 +12,7 @@ Options:
   -d --duration [n]    Duration in hours example: -d 24 (default: 1)
   -a --actions <list>  Actions to use example: -a like, follow (default: [])
   -h, --help           output usage information
-
+```
 
 ## Example usage
 
